@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.icerockrepoapp-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.example.icerockrepoapp-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-mergeDebugResources-25:/layout/item_repository.xml",
+        "source": "com.example.icerockrepoapp-main-28:/layout/item_repository.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-mergeDebugResources-25:/layout/fragment_detail_info.xml",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_detail_info.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-mergeDebugResources-25:/layout/fragment_repositories_list.xml",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_repositories_list.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-mergeDebugResources-25:/layout/fragment_auth.xml",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_auth.xml"
+    }
+]

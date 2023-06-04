@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/layout_fragment_repositories_list.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_repositories_list.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/layout_fragment_detail_info.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_detail_info.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-mdpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-mdpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/layout_item_repository.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/layout/item_repository.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_eye.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-ldpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-ldpi/ic_forks.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-anydpi-v24_ic_license.xml.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-anydpi-v24/ic_license.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_internet.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_internet.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-anydpi-v24_ic_forks.xml.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-anydpi-v24/ic_forks.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-ldpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-ldpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xxxhdpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xxxhdpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-hdpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-hdpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-hdpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-hdpi/ic_forks.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/layout_fragment_auth.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_error.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/xml_backup_rules.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-mdpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-mdpi/ic_forks.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_star.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xxhdpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xxhdpi/ic_forks.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/navigation_app_nav_graph.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/navigation/app_nav_graph.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_launcher_back.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_launcher_back.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_github.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_github.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xhdpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xhdpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xxxhdpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xxxhdpi/ic_forks.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xxhdpi_ic_license.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xxhdpi/ic_license.png"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable_ic_link.xml.flat",
+        "source": "com.example.icerockrepoapp-main-28:/drawable/ic_link.xml"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.icerockrepoapp-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.icerockrepoapp-merged_res-26:/drawable-xhdpi_ic_forks.png.flat",
+        "source": "com.example.icerockrepoapp-pngs-21:/drawable-xhdpi/ic_forks.png"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_dark">#161B22</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#58a6ff</color>
+    <color name="dark">#0D1117</color>
+    <color name="green">#5a9357</color>
+    <color name="grey">#676a6d</color>
+    <color name="light_blue">#9cfff9</color>
+    <color name="light_green">#6ed370</color>
+    <color name="pink">#9a73e0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#cb4f4f</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fad876</color>
+    <string name="app_name">IcerockRepoApp</string>
+    <string name="bt_signIn">Sign in</string>
+    <string name="checkConnection">Check your internet connection</string>
+    <string name="checkError">Check your something</string>
+    <string name="connectionError">Connection error</string>
+    <string name="ed_hint">Personal access token</string>
+    <string name="error">Something error</string>
+    <string name="language">Language</string>
+    <string name="readme">Readme Example</string>
+    <string name="repository">Repository Example</string>
+    <string name="retry">Retry</string>
+    <string name="tvForks">forks</string>
+    <string name="tvLWatchers">watchers</string>
+    <string name="tvLicense">License</string>
+    <string name="tvLink">link here</string>
+    <string name="tvStars">stars</string>
+    <style name="Theme.IcerockRepoApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/actionbar_dark</item>
+        <item name="colorPrimaryVariant">@color/actionbar_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
